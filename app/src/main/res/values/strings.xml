@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoProject</string>
+    <string name="toolbar_navigation_demo">Toolbar Navigation demo</string>
 </resources>
